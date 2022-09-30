@@ -1,1 +1,5 @@
-Task 0. Where am I Shell Scripting Assignment
+Shell Tasks
+
+Shell Permissions
+
+Shell Redirections and filters
